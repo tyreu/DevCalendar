@@ -1,0 +1,48 @@
+﻿html {
+    font-size: 16px;
+}
+
+#YearHeader, .monthIndex, .dayIndex {
+    font-family: Consolas;
+}
+
+table td, td, th {
+    border-style: hidden;
+    border-top: hidden !important;
+}
+
+#calendar {
+    border: solid;
+    border-radius: 30px;
+    border-color: #b7b7b7;
+}
+
+#YearHeader {
+    font-size: 70px;
+    font-weight: 700;
+    color: #0072bc;
+}
+
+.monthIndex {
+    font-size: 36px;
+    color: #37b44a;
+}
+
+.dayIndex {
+    font-size: 14px;
+    color: #000000;
+}
+
+.holiday {
+    color: #ee1d24;
+}
+
+th.workday {
+    font-size: 14px;
+    color: #464646;
+}
+
+th.weekend {
+    font-size: 14px;
+    color: #ee105a;
+}

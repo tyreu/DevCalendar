@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "5NrXfEK+A3q5RjgtR1+t4F6DmdRwmA5OD8en/iX0Rb4=",
+  "Source": "DevCalendar",
+  "BasePath": "_content/DevCalendar",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DevCalendar\\wwwroot",
+      "Source": "DevCalendar",
+      "ContentRoot": "C:\\Users\\tyreu\\Desktop\\DevCalendar\\DevCalendar\\wwwroot\\",
+      "BasePath": "_content/DevCalendar",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\tyreu\\Desktop\\DevCalendar\\DevCalendar\\wwwroot\\css\\calendar.css",
+      "SourceId": "DevCalendar",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tyreu\\Desktop\\DevCalendar\\DevCalendar\\wwwroot\\",
+      "BasePath": "_content/DevCalendar",
+      "RelativePath": "css/calendar.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\calendar.css"
+    },
+    {
+      "Identity": "C:\\Users\\tyreu\\Desktop\\DevCalendar\\DevCalendar\\wwwroot\\js\\calendar.js",
+      "SourceId": "DevCalendar",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tyreu\\Desktop\\DevCalendar\\DevCalendar\\wwwroot\\",
+      "BasePath": "_content/DevCalendar",
+      "RelativePath": "js/calendar.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\calendar.js"
+    }
+  ]
+}
